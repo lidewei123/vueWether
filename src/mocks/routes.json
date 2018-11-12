@@ -1,0 +1,5 @@
+{
+  "/posts": "/posts",
+  "/posts/:id": "/posts?id=:id",
+  "/demo2Data": "/demo2Data"
+}
